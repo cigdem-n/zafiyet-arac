@@ -18,11 +18,11 @@ python3 app.py
 
 Uygulama varsayılan olarak http://127.0.0.1:5000 adresinde çalışacaktır.
 
-##Kullanım
+## Kullanım
 -Tarayıcıdan http://127.0.0.1:5000 adresine gidin.
 -Hedef URL'yi girin.
 -Tarama başlatın, sonuçları anlık olarak görüntüleyin.
 
-#Lisans
+# Lisans
 Bu proje açık kaynak olup MIT lisansı ile lisanslanmıştır.
 

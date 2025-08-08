@@ -8,7 +8,7 @@ Zafiyet Aracı, Flask kullanılarak geliştirilmiş, temel güvenlik testlerini 
 - Oturum ve Cookie denetimi
 - Yüklenebilir dosya noktalarını işaretleme
 
-### Kurulum
+## Kurulum
 git clone https://github.com/cigdem-n/zafiyet-arac.git
 cd zafiyet-arac
 python3 -m venv venv
@@ -23,6 +23,6 @@ Uygulama varsayılan olarak http://127.0.0.1:5000 adresinde çalışacaktır.
 -Hedef URL'yi girin.
 -Tarama başlatın, sonuçları anlık olarak görüntüleyin.
 
-# Lisans
+## Lisans
 Bu proje açık kaynak olup MIT lisansı ile lisanslanmıştır.
 
